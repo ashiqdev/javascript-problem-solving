@@ -1,0 +1,23 @@
+1. inch to feet () [feet = inch/12]
+
+2. factorial
+
+3. fibo [series and nth value]
+
+4. leap
+
+5. prime number / prime list
+
+6. swap two variable (temp, without-temp, destrucuring)
+
+7. remove duplicate element from an array (for-of, filter, set)
+
+8. largest/smallest element of an array  (loop, reduce)
+
+9. maximum number of 3
+
+10. reverse a string (reverse, reduce, another-way)
+
+11. count number of word in a string (loop, split)
+
+12. sum of an array (normal, reduce)
